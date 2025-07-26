@@ -1,2 +1,1 @@
-this is the main version of the file
-this line is from feature1
+this is the modified version from conflict demo branch
