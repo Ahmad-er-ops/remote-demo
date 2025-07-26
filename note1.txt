@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the conflicting change from main branch
+=======
+this is the modified version from conflict demo branch
+>>>>>>> conflict-demo
